@@ -13,6 +13,12 @@ footer{
     font-size: small;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
+ul{
+    color: aqua;
+}
+h3{
+    color:rgb(205, 199, 13) ;
+}
 /* Align the h1 containing your name in the center of the header*/
 h1{
     text-align: center;
@@ -27,7 +33,8 @@ p{
 }
 /* Put a border around your image */
 img{
-    border
+    border: 5px solid rgb(252, 8, 8);
+    width: 300px;
 }
 /* Change the font-family of your list */
 p{
