@@ -17,6 +17,6 @@ git version 2.15.0
 # 8 - Why would you run the command 'git status'?
 git status shows if code has been saved for commit. It also higlights red for no and green for yes.  
 # 9 - What does the command 'git add .' do?
-git add saves any code changes so that it can be commited. 
+git add saves any code changes so that it can be commited and also makes git status green.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 git push origin main
