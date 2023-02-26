@@ -3,15 +3,16 @@ body{
     background-color: rgb(65, 47, 81);
 }
 /* Make the header and footer a different color from the background */
-header{
-    color: rgb(16, 16, 235);
+.header{
+    background-color: blue;
+    color: rgb(180, 180, 219);
     font-size: large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-footer{
-    color: rgb(136, 236, 13);
-    font-size: small;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+.footer{
+    background-color: rgb(222, 9, 237);
+    font-size:large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 ul{
     color: aqua;
@@ -28,7 +29,7 @@ body{
 }
 /* Make your p tag a different color and italic */
 p{
-    color: azure;
+    color: rgb(18, 235, 18);
     font-style: italic
 }
 /* Put a border around your image */
